@@ -17,13 +17,8 @@ body{
     color:aliceblue;
     animation-name: playerMove;
     animation-duration: 3s;
-    padding-left: 50px;
+    padding-left: 50;
     padding-top: 575px;
     padding-right: 5px;
-}
-@keyframes playerMove{
-    from {padding-left: 50px;}
-    to {padding-left: 400px;}
-
 }
 
